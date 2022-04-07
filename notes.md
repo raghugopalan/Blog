@@ -1,5 +1,0 @@
----
-type: Journal
----
-
-- [AS](asnair)
