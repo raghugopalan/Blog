@@ -12,4 +12,4 @@ Digital Garden . Notes . Tweets
 
 ---
 
-[Home](https://raghug.com/)
+[Website](https://raghug.com/)
