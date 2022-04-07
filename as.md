@@ -1,9 +1,8 @@
 ---
-title: AS Nair
-created: 2022-04-07T10:12:43+05:30
-modified: 2022-04-07T10:16:12+05:30
-tags: illustration illustrator kerala artist
+title: "A. S."
+date: 2022-04-01 10:31:24
 ---
+# A. S.
 
 01-Apr-2022
 
@@ -20,3 +19,5 @@ tags: illustration illustrator kerala artist
 അദ്ദേഹത്തിന്റെ മകനോടൊപ്പം  പിൽക്കാലത്തു ഒരുമിച്ചു ജോലി ചെയ്തപ്പോൾ ഗോപാലേട്ടനെ വീട്ടിൽ നേരിട്ടുപോയി കണ്ടിരുന്നു. കുറെ ഒറിജിനൽ ആർട്ടും കണ്ടു.
 
 ഈ രണ്ടു സിറ്റുവേഷനിലും ഉണ്ടായ ആവേശം!
+
+#illustrator #artist
