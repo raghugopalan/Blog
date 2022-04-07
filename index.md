@@ -11,4 +11,4 @@ Digital Garden
 
 ---
 
-[home](https://raghug.com/)
+[website](https://raghug.com/)
