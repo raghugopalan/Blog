@@ -1,3 +1,3 @@
-# Digital Garden
+### Digital Garden
 
-Hello world!
+*Digital Garden*: Art. Cinema. Literature. Culture. Tech
