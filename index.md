@@ -2,8 +2,10 @@
 
 Art. Cinema. Literature. Culture. Tech
 
-- [A. S.](as)
+
 - [Friday dispatch](fd)
+- [A. S.](as)
+
 
 ---
 
