@@ -1,2 +1,2 @@
-- [Friday dispatch may 13 2022](fd001)
-- [Friday dispatch may 20 2022](fd002)
+- [Friday dispatch may 13, 2022](fd001)
+- [Friday dispatch may 20, 2022](fd002)
